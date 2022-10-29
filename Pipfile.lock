@@ -73,11 +73,11 @@
         },
         "identify": {
             "hashes": [
-                "sha256:6c32dbd747aa4ceee1df33f25fed0b0f6e0d65721b15bd151307ff7056d50245",
-                "sha256:b276db7ec52d7e89f5bc4653380e33054ddc803d25875952ad90b0f012cbcdaa"
+                "sha256:48b7925fe122720088aeb7a6c34f17b27e706b72c61070f27fe3789094233440",
+                "sha256:7a214a10313b9489a0d61467db2856ae8d0b8306fc923e03a9effa53d8aedc58"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.5.6"
+            "version": "==2.5.8"
         },
         "idna": {
             "hashes": [
@@ -199,11 +199,11 @@
         },
         "virtualenv": {
             "hashes": [
-                "sha256:227ea1b9994fdc5ea31977ba3383ef296d7472ea85be9d6732e42a91c04e80da",
-                "sha256:d07dfc5df5e4e0dbc92862350ad87a36ed505b978f6c39609dc489eadd5b0d27"
+                "sha256:186ca84254abcbde98180fd17092f9628c5fe742273c02724972a1d8a2035108",
+                "sha256:530b850b523c6449406dfba859d6345e48ef19b8439606c5d74d7d3c9e14d76e"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==20.16.5"
+            "version": "==20.16.6"
         }
     },
     "develop": {}
